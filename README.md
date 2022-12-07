@@ -25,6 +25,8 @@
 
 # Getting started
 
+q
+
 ## Setup
 
 Copy and rename ``cfg.js.example`` to ``cfg.js``.
