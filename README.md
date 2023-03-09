@@ -43,7 +43,7 @@ DOWNLOAD_PASSWORD: "PASSWORD";
 ## Tunneling setup
 The pokemon go app traffic has to get forwarded manually to this custom server. Download [rastapasta](https://github.com/rastapasta)'s [Pokemon Go Xposed](https://github.com/rastapasta/pokemon-go-xposed/releases) app and follow the installation instructions [here](https://github.com/rastapasta/pokemon-go-xposed#how-to-use-it).
 
-## Database setup
+## Database setu
 
 To setup a database connection, open ``cfg.js`` and change the database login credentials:
 
